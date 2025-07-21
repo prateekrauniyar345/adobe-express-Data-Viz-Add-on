@@ -157,30 +157,6 @@ We believe in the power of community-driven development. Here's how you can cont
 
 ---
 
-## 📚 Documentation Hub
-
-This repository contains comprehensive documentation for developers, users, and contributors:
-
-### For Users
-- [📖 Getting Started Guide](docs/user-guide.md)
-- [🎨 Chart Creation Tutorial](docs/tutorials/creating-charts.md)
-- [⚙️ Customization Options](docs/user-guide/customization.md)
-- [❓ FAQ & Troubleshooting](docs/faq.md)
-
-### For Developers
-- [🛠️ Installation & Setup](docs/development/setup.md)
-- [🏗️ Architecture Overview](docs/development/architecture.md)
-- [🔌 API Reference](docs/api/README.md)
-- [🧪 Testing Guidelines](docs/development/testing.md)
-
-### For Contributors
-- [🤝 Contributing Guidelines](CONTRIBUTING.md)
-- [📏 Code Standards](docs/development/coding-standards.md)
-- [🔄 Pull Request Process](docs/development/pr-process.md)
-- [📋 Issue Templates](docs/templates/README.md)
-
----
-
 ## 🏗️ Project Structure
 
 ```
