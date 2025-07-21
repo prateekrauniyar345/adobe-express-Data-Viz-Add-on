@@ -2,7 +2,7 @@
 *A powerful Adobe Express add-on that transforms data into beautiful, interactive visualizations*
 
 [![Hackathon](https://img.shields.io/badge/Adobe_Express-Hackathon_2025-FF0000?style=for-the-badge&logo=adobe)](https://adobe-express-addons-hackathon.devpost.com/)
-[![Status](https://img.shields.io/badge/Status-Active_Development-green?style=for-the-badge)](https://github.com/your-username/data-viz-addon)
+[![Status](https://img.shields.io/badge/Status-Active_Development-green?style=for-the-badge)](https://github.com/prateekrauniyar345/adobe-express-Data-Viz-Add-on)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
 ---
@@ -176,19 +176,19 @@ Data-Viz-Adobe-Express-Addon/
 ## 🔗 Important Links
 
 - **🏆 [Adobe Hackathon Submission](https://adobe-express-addons-hackathon.devpost.com/)**
-- **📱 [Live Demo](https://your-github-pages-url.github.io/data-viz-addon)**
-- **🐛 [Report Issues](https://github.com/your-username/data-viz-addon/issues)**
-- **💡 [Feature Requests](https://github.com/your-username/data-viz-addon/discussions)**
+- **📱 [Live Demo](https://prateekrauniyar345.github.io/adobe-express-Data-Viz-Add-on)**
+- **🐛 [Report Issues](https://github.com/prateekrauniyar345/adobe-express-Data-Viz-Add-on/issues)**
+- **💡 [Feature Requests](https://github.com/prateekrauniyar345/adobe-express-Data-Viz-Add-on/discussions)**
 - **📧 [Contact Us](prateekrauniyar345@gmail.com)**
 
 ---
 
 ## 📊 Project Statistics
 
-![GitHub Stats](https://img.shields.io/github/stars/your-username/data-viz-addon?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/your-username/data-viz-addon)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/your-username/data-viz-addon)
-![Last Commit](https://img.shields.io/github/last-commit/your-username/data-viz-addon)
+![GitHub Stars](https://img.shields.io/github/stars/prateekrauniyar345/adobe-express-Data-Viz-Add-on?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/prateekrauniyar345/adobe-express-Data-Viz-Add-on)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/prateekrauniyar345/adobe-express-Data-Viz-Add-on)
+![Last Commit](https://img.shields.io/github/last-commit/prateekrauniyar345/adobe-express-Data-Viz-Add-on)
 
 ---
 
@@ -214,7 +214,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Transforming data into insights, one visualization at a time*
 
-[⭐ Star this repo](https://github.com/your-username/data-viz-addon) | [🐛 Report Bug](https://github.com/your-username/data-viz-addon/issues) | [💡 Request Feature]()
+[⭐ Star this repo](https://github.com/prateekrauniyar345/adobe-express-Data-Viz-Add-on) | [🐛 Report Bug](https://github.com/prateekrauniyar345/adobe-express-Data-Viz-Add-on/issues) | [💡 Request Feature](https://github.com/prateekrauniyar345/adobe-express-Data-Viz-Add-on/discussions)
 
 ---
 
